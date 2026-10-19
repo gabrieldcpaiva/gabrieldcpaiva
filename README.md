@@ -16,8 +16,6 @@ Sem pressa, sem promessa mágica. Um trabalho calmo, fluido e justo.
 - **[service-for-the-unseen](https://github.com/gabrieldcpaiva/service-for-the-unseen)**: skills de agente para acessibilidade em tela e no papel.
 - **[airtable-ai-pipeline](https://github.com/gabrieldcpaiva/airtable-ai-pipeline)**: automação que liga seus dados do Airtable à IA.
 - **[harvestflow-v1](https://github.com/gabrieldcpaiva/harvestflow-v1)**: app offline para pequenos produtores de café registrarem a colheita.
-- **[solar-flare](https://github.com/gabrieldcpaiva/solar-flare)**: time de agentes que encontra e qualifica clientes de energia solar, com aprovação humana em cada passo.
-- **[storytelling](https://github.com/gabrieldcpaiva/storytelling)**: estúdio de roteiro e continuidade para vídeos feitos com IA.
 
 Trabalho no dia a dia com [Hermes Agent](https://github.com/NousResearch/hermes-agent) e [Open Design](https://github.com/nexu-io/open-design).
 
